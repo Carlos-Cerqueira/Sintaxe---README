@@ -40,7 +40,7 @@ Um README.md bem organizado geralmente inclui as seguintes seções:
 
 Aqui está um exemplo básico de como a estrutura de um README.md pode parecer:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/1.png)
 
@@ -49,7 +49,7 @@ Aqui está um exemplo básico de como a estrutura de um README.md pode parecer:
 
 No editor de código VS Code, é possível obter uma pré-visualização de como o arquivo será exibido ao usuário. Para isso, utilize o atalho **Ctrl + Shift + V**.
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/2.png)
 
@@ -64,7 +64,7 @@ As sintaxes possíveis para escrever um README.md ou qualquer arquivo Markdown o
 
 Cada # adicionado reduz o tamanho do título.
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/3.png)
 
@@ -73,7 +73,7 @@ Cada # adicionado reduz o tamanho do título.
 
 Observe a pré-visualização:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/4.png)
 
@@ -86,7 +86,7 @@ Neste capítulo apresentaremos duas formas diferentes de listas: as Listas Não 
 
 #### 3.2.1 Não ordenadas
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/5.png)
 
@@ -95,7 +95,7 @@ Neste capítulo apresentaremos duas formas diferentes de listas: as Listas Não 
 
 Observe a pré-visualização:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/6.png)
 
@@ -104,7 +104,7 @@ Observe a pré-visualização:
 
 #### 3.2.2 Ordenadas
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/7.png)
 
@@ -113,7 +113,7 @@ Observe a pré-visualização:
 
 Observe a pré-visualização:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/8.png)
 
@@ -122,7 +122,7 @@ Observe a pré-visualização:
 
 ### 3.3 Links
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/9.png)
 
@@ -131,7 +131,7 @@ Observe a pré-visualização:
 
 Observe a pré-visualização:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/10.png)
 
@@ -142,7 +142,7 @@ Observe a pré-visualização:
 
 Aqui apresentaremos duas visualizações, a do Texto Alternativo e a da Imagem, observe:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/11.png)
 
@@ -151,7 +151,7 @@ Aqui apresentaremos duas visualizações, a do Texto Alternativo e a da Imagem, 
 
 Observe a pré-visualização do Texto Alternativo:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/12.png)
 
@@ -160,7 +160,7 @@ Observe a pré-visualização do Texto Alternativo:
 
 Agora observe a visualização da imagem:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/13.png)
 
@@ -173,7 +173,7 @@ Neste capítulo apresentaremos duas formas diferentes de exibir Blocos de Códig
 
 #### 3.5.1 Inline
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/14.png)
 
@@ -182,7 +182,7 @@ Neste capítulo apresentaremos duas formas diferentes de exibir Blocos de Códig
 
 Observe a pré-visualização:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/15.png)
 
@@ -193,7 +193,7 @@ Observe a pré-visualização:
 
 Neste modo de exibição, é necessário especificar também a linguagem, da seguinte forma:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/16.png)
 
@@ -202,7 +202,7 @@ Neste modo de exibição, é necessário especificar também a linguagem, da seg
 
 Observe a pré-visualização:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/17.png)
 
@@ -211,7 +211,7 @@ Observe a pré-visualização:
 
 ### 3.6 Ênfase e estilo
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/18.png)
 
@@ -220,7 +220,7 @@ Observe a pré-visualização:
 
 Observe a pré-visualização:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/19.png)
 
@@ -229,7 +229,7 @@ Observe a pré-visualização:
 
 ### 3.7 Linhas Horizontais
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/20.png)
 
@@ -238,7 +238,7 @@ Observe a pré-visualização:
 
 Observe a pré-visualização:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/21.png)
 
@@ -247,7 +247,7 @@ Observe a pré-visualização:
 
 ### 3.8 Citações
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/22.png)
 
@@ -256,7 +256,7 @@ Observe a pré-visualização:
 
 Observe a pré-visualização:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/23.png)
 
@@ -265,7 +265,7 @@ Observe a pré-visualização:
 
 ### 3.9 Tabelas
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/24.png)
 
@@ -274,7 +274,7 @@ Observe a pré-visualização:
 
 Observe a pré-visualização:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/25.png)
 
@@ -283,7 +283,7 @@ Observe a pré-visualização:
 
 ### 3.10 Listas de Tarefas
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/26.png)
 
@@ -292,7 +292,7 @@ Observe a pré-visualização:
 
 Observe a pré-visualização:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/27.png)
 
@@ -303,12 +303,14 @@ Observe a pré-visualização:
 
 Além da Linguagem Markdown, é possível utilizar também HTML e CSS para customizar esses documentos. Observe:
 
-<div style="margin: auto; width: 60%; display: flex; justify-content: center">
+<div align="center">
 
   ![](img/28.png)
 
 </div>
 <div align="center">Figura 28 - Utilização de HTML e CSS para customização<br><br></div>
+
+É importante ressaltar que até o momento, o GitHub não reconhece o atributo **style** ao exibir o arquivo.
 
 ## 5. Conclusão
 
